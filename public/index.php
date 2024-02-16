@@ -1,5 +1,5 @@
 <?php
-# echo 'hello wrld';
+echo 'hello wrld';
 # phpinfo();
 $app = include __DIR__ . '/../src/App/bootstrap.php';
 
